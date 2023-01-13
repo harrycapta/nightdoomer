@@ -1,11 +1,11 @@
 :root {
-    --accent: rgb(81, 243, 75);
+    --accent: rgb(220, 0, 0);
     --grey: #444;
     --black: #000;
     --white: rgb(242, 242, 242);
     --progress-bar-height: 3px;
     --progress-bar-color: rgb(10, 10, 10);
-    --progress-bar-value-color: rgb(0, 255, 0);
+    --progress-bar-value-color: rgb(0, 220, 0);
     --progress-bar-value: 20%;  
 }
 
