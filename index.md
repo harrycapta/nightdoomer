@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-# Hi, I'm **Enrico Capitanio**
+# NightDoomer Podcast
 
-I'm an professional in the field of e-commerce technology.
-Tinkering with **SaaS / MACH** softwares, I propose technological **e-commerce solutions** that best fit capitalists needs.
+Aha! Sono attonito. Un'anarchica armata di antisociali, un'associazione agguerrita con un arsenale di ambiguamente adulta anonimità.
+Questa arcaica alleanza, non solo animalesca aggressività, è un'assemblea di aristocratici artificiosi. Assumendo che l'affezione collettiva non sia atrofizzata, arriveranno altri giorni di ardite argomentazioni su internet. Sotto l'ambigua audacia dell'anonimità, l'antipatia di tutte le asserzioni andrà annunciata con allegro abbandono. 
 
-I have experience coordinating with external software development and marketing agencies. I am skilled in **data integrations** and implementing **Project Management** methods.
+Scuse? Non assolvere.
 
-I am fascinated by [generative AI](/notes/Generative%20AI "Generative AI"), [cyberpunk](/notes/Cyberpunk "cyberpunk") and post-capitalism, contemporary philosophy and chaos Magik.
+Ahimè, avverto un'agitazione analoga all'arrapamento. A seguito dell'anticipazione...
 
-Also I love taking [Notes](/notes "Notebook") about everything.
+Potete chiamarmi Nightdoomer, e questo è il mio [Podcast](/notes "Notebook")

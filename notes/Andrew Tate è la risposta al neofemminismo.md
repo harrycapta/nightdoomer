@@ -4,7 +4,7 @@ Non linkerò Andrew Tate da nessuna parte in questo podcast perché mi considero
 
 Se sei determinato a scoprire chi è e di cosa si tratta tutto il polverone che 'sta merda di uomo sta alzando, sono felice di informarti che è famoso per aver detto cose piuttosto orribili sulle donne.
 
-È un bro. Un oscuro influencer. Un provocatore. Uno degli [alpha males](https://www.enricocapitanio.com/notes/alpha%20males/). Ai miei tempi qualcuno che avremmo chiamato "Un dioporco di coglione".
+È un bro. Un oscuro influencer. Un provocatore. Uno degli alpha males. Ai miei tempi qualcuno che avremmo chiamato "Un dioporco di coglione".
 
 La cosa più importante che dovete sapere su Mr. Tate è che è popolare tra una certa fascia demografica. È riuscito ad accumulare un seguito di bro prevalentemente giovani che apprezzano particolarmente la sua capacità di monetizzare l'aria fritta.
 
