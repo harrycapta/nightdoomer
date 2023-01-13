@@ -1,3 +1,5 @@
+# Andrew Tate è la risposta al neofemminismo
+
 Andrew Tate è un coglione.
 
 Non linkerò Andrew Tate da nessuna parte in questo podcast perché mi considero un adulto responsabile. Se non fai parte della GenZ o non sei un incel redpillato, probabilmente hai passato tutta la vita senza aver mai sentito parlare di lui, e il mio fottuto consiglio è di continuare così.

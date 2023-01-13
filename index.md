@@ -10,4 +10,4 @@ Scuse? Non assolvere.
 
 Ahimè, avverto un'agitazione analoga all'arrapamento. A seguito dell'anticipazione...
 
-Potete chiamarmi Nightdoomer, e questo è il mio [Podcast](/notes "Notebook")
+Potete chiamarmi Nightdoomer, e questo è il mio [podcast](/notes "Podcast")
