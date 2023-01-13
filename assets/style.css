@@ -119,16 +119,15 @@ h1, h2, h3, h4, h5 {
   font-weight: 400;
   line-height: 1.15;
   font-family:"Aut", sans-serif;
-  text-shadow: 1px 2px darkred;
 }
 
-h1 {font-size: 2.052em;}
+h1 {font-size: 2.052em;  text-shadow: 1px 2px darkred;}
 
-h2 {font-size: 1.441em;}
+h2 {font-size: 1.441em; text-shadow: 1px 2px darkred;}
 
-h3 {font-size: 0.953em;color:rgb(220, 0, 0);}
+h3 {font-size: 0.953em;color:rgb(220, 0, 0); text-shadow: 1px 0.5px darkred;}
 
-h4 {font-size: 0.563em;}
+h4 {font-size: 0.563em;text-shadow: 1px 0.3px darkred;}
 
 h5, .larger {font-size: 0.25em;}
 
