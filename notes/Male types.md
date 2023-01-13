@@ -1,9 +1,2 @@
-# Male Types
-
-[[Alpha Males]]
-
-[[Beta Males]]
-
-[[Sigma Males]]
-
-[[Notes]]
+[[Aziz Shaveshian]]
+[[C'era una volta un piccolo incel dietro alla tastiera]]
