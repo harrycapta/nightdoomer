@@ -1,0 +1,16 @@
+# Beta Males
+
+Beta males are the ‘lieutenants’ of the socio sexual hierarchy. They’re fiercely loyal to their [[alpha males]]. In exchange for this loyalty, they enjoy many of the benefits of high status and position. Beta males are crucial to a stable hierarchy, and enforce the alpha’s rules to maintain order and structure.
+
+Enter a study by Jerry Burger and Mica Cosby. The researchers had 118 female undergraduates read the same descriptions of John the tennis player (dominant vs. submissive), but they added a crucial control condition in which some participants only read the first three sentences of the description (see italics above). Consistent with the prior study, women found dominant John more sexually appealing than submissive John. However, the John depicted in the control condition had the highest ratings of sexiness of them all!
+
+What’s going on? Well, this most certainly doesn’t mean that the extremely brief three-sentence description of the John depicted in the control condition was sexually appealing. Rather, it’s more probable that hearing about either dominant or nondominant behavior, in isolation of other information about him, made him less sexually attractive. The researchers conclude: “In short, a simple dominant-nondominant dimension may be of limited value when predicting mate preferences for women.”
+
+Next, the researchers fiddled with the descriptors of John. In the “dominant” condition, participants read a short description of John and were told that a recent personality test found that his five most prominent traits were aggressive, assertive, confident, demanding, and dominant. Those in the “nondominant” condition read the same paragraph but were told that John’s five most prominent personality characteristics were easygoing, quiet, sensitive, shy, and submissive. Those in the control condition only read the short paragraph but were not told anything about John’s personality.
+
+The researchers then asked women to indicate which of the adjectives used to describe John were ideal for a date as well as for a long-term romantic partner. They found that only one woman out of the 50 undergraduates in their sample actually identified “dominant” as one of the traits she sought in either an ideal date or a romantic partner. For the rest of the dominant adjectives, the two big winners were confident (72 percent sought this trait for an ideal date; 74 percent sought this trait for an ideal romantic partner) and assertive (48 percent sought this trait for an ideal date; 36 percent sought this trait for an ideal romantic partner). Not one woman wanted a demanding male, and only 12 percent wanted an aggressive person for a date and romantic partner.
+
+In terms of the nondominant adjectives, the big winners were easygoing (68 percent sought this trait for an ideal date; 64 percent sought this trait for an ideal romantic partner) and sensitive (76 percent sought this trait for an ideal date and ideal romantic partner). Not one woman wanted a submissive male for either a date or romance. Other low-ranked nondominant adjectives were shy (2 percent for dating; zero for romantic) and quiet (4 percent for ideal; 2 for romantic).
+
+
+Also: [[Alpha Males]] | [[Sigma Males]] | [[Male Types]]
