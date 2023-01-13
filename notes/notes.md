@@ -8,7 +8,11 @@
 
 [[L'assalto al campidoglio è stato provocato da bambini alieni provenienti dalle pleiadi]]
 
-[[ Come Putin vuole creare l'Uomo che si nutre di energia cosmica tramite l'eugenetica]]
+[[Come Putin vuole creare l'Uomo che si nutre di energia cosmica tramite l'eugenetica]]
+
+[[Elliot Rodger, il gentleman supremo]]
+
+[[C'era una volta un piccolo incel dietro alla tastiera]]
 
 ### Episodi In Revisione
 
@@ -19,8 +23,6 @@
 
 [[Che cos'è QAnon]]
 
-[[C'era una volta un piccolo incel dietro alla tastiera]]
-
 [[Come essere un normie]]
 
 [[Alpha, beta e sigma males]]
@@ -28,5 +30,3 @@
 [[Christian Weston Chandler, ovvero l'uomo più documentato di internet]]
 
 [[Mi ritrovai in un web oscuro dove la silk road era smarrita]]
-
-[[Elliot Rodger, il gentleman supremo]]

@@ -1,4 +1,4 @@
-https://www.creepypasta.com/the-hidden-webpage/
+# Serie dei Creepypastas
 
 [[Lavender Town Syndrome]]
 [[Demone Zozo]]

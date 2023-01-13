@@ -1,3 +1,5 @@
+# Aziz Shaveshian
+
 Attirato in un piccolo specchio d'acqua si innamorò di se stesso e morì, incapace di smettere di guardare il suo rifless. In molti modi la vita del bodybuilder Aziz Shavershian, meglio conosciuto con il suo username Zyzz, riflette il mito di Narciso. Avendo ottenuto un seguito online nel 2010 per il suo approccio moderno al bodybuilding estetico e la sua personalità unica, era visto come una star nella comunità del bodybuilding.
 
 Stanotte, su Nightdoomer, vi parlerò dell'apice evolutivo del Looksmaxxing, un mito sia per gli Incel  sia per i chad, il bro che tutti noi avremmo voluto, un modello di mascolinità non tossica, un true alpha che tutti noi avremmo preferito vedere in questi tempi cyberpunk al posto di Andrew Tate. Stasera vi parlo di Zyzz.

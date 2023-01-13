@@ -1,3 +1,5 @@
+# C'era una volta un piccolo incel dietro alla tastiera
+
 C'è qualcosa di sovietico nel modo in cui internet nomina le cose. Stalin utilizzava dei portmanteau come Agitprop, politburo, compromat.. e noi utilizziamo webinar, prodcast e... incel. Incel: diminutivo di involontariamente celibe. 
 
 Benvenuti su NightDoomer, questa notte tentiamo di capire chi sono gli Incel.

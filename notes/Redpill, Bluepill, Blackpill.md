@@ -1,3 +1,5 @@
+# Redpill, Bluepill, Blackpill
+
 La pill theory prende il nome dal film Matrix, in cui la “pillola rossa” apre la mente a Neo, mostrandogli “la verità” sulla sua realtà.
 
 Nel caso della Teoria Redpill, al posto di Neo ci sarebbero i cosiddetti “incel“, ovvero i celibi involontari (Involuntary Celibate), i quali, prima di venire a contatto con questa “dottrina”, penserebbero di essere la “causa” del loro essere single “per scelta degli altri”.

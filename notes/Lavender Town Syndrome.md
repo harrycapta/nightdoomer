@@ -1,3 +1,5 @@
+# Lavender Town Syndrome
+
 La "Sindrome di Lavandonia" (conosciuta anche come "Lavender Town Tone" o "I Suicidi di Lavender Town") è stata un massiccio incremento di suicidi e malattie di bambini tra le età di 7-12 anni anni subito dopo il rilascio di Pokémon Rosso e Verde in Giappone il 27 febbraio 1996.
 
 Questa supposta "Sindrome" è una leggenda urbana. Nei primi giochi dei Pokémon, infatti, il giocatore viaggia di cittià in città, muovendosi lungo la strada per la Lega. Una delle città si chiama Lavender Town (Lavandonia nell'edizione italiana). All'interno di essa c'è una torre piena delle anime dei Pokémon che sono stati assassinati. Quando il giocatore entra in una nuova area, la musica cambia. Ogni città ha la sua canzone, e quella di Lavandonia è particolarmente creepy.
