@@ -14,6 +14,12 @@
 
 [[C'era una volta un piccolo incel dietro alla tastiera]]
 
+[[Aziz Shaveshian]]
+
+[[Lavender Town Syndrome]]
+
+[[Demone Zozo]]
+
 ### Episodi In Revisione
 
 ### In scrittura  
@@ -23,10 +29,4 @@
 
 [[Che cos'è QAnon]]
 
-[[Come essere un normie]]
-
-[[Alpha, beta e sigma males]]
-
 [[Christian Weston Chandler, ovvero l'uomo più documentato di internet]]
-
-[[Mi ritrovai in un web oscuro dove la silk road era smarrita]]
