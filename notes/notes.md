@@ -4,13 +4,15 @@
 
 ### Episodi Scritti
 
+[[Kiwi Farms ovvero la fabbrica delle lolcows]]
+
 [[Andrew Tate è la risposta al neofemminismo]]
 
 [[L'assalto al campidoglio è stato provocato da bambini alieni provenienti dalle pleiadi]]
 
 [[Come Putin vuole creare l'Uomo che si nutre di energia cosmica tramite l'eugenetica]]
 
-[[Elliot Rodger, il gentleman supremo]]
+[[Elliot Rodger il gentleman supremo]]
 
 [[C'era una volta un piccolo incel dietro alla tastiera]]
 
