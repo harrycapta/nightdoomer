@@ -10,7 +10,7 @@ Da allora, mi sono immerso più a fondo nel fenomeno degli Starseed e mi sono re
 
 Infatti, uno dei pionieri dell'idea fu imprigionato 60 anni prima di Angeli, per aver complottato una rivolta fascista negli Stati Uniti.
 
-Quindi, in questo 23esimo podcast di Perculato, tenterò di rispondere alla domanda: “Che differenza c’è tra un alieno delle pleiadi ed un nazista?”
+Quindi, in questo podcast di Nightdoomer, tenterò di rispondere alla domanda: “Che differenza c’è tra un alieno delle pleiadi ed un nazista?”
 
 Alla fine del 19° secolo, l’immaginario comune era pieno fino all’orlo di idee sui viaggi nello spazio e di incontri con civiltà extraterrestri. L'astronomo italiano Giovanni Schiaparelli aveva osservato quelli che sembravano canali d'acqua su Marte, portando ad eccitate speculazioni che il pianeta fosse pieno di canali artificiali. Nel 1902, George Méliès realizzò il primo film di fantascienza, Viaggio sulla luna.
 
