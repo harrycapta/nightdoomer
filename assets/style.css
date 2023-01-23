@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Aut";
-    src: url(/assets/aut.ttf);
+    font-family: "VT";
+    src: url(/assets/VT323.ttf);
 }
 
 
@@ -25,7 +25,7 @@ html {
 strong {color:var(--accent)}
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'VT', sans-serif;
     line-height: 1.65;
     
     display: flex;
@@ -64,7 +64,7 @@ img {
 nav a {
     margin: 0 12px;
     font-size: 1.25em;
-    font-family: "Aut", sans-serif;
+    font-family: "VT", sans-serif;
     font-size: 14px;
     color: var(--accent)!important;
 }
@@ -118,8 +118,35 @@ h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
   font-weight: 400;
   line-height: 1.15;
-  font-family:"Aut", sans-serif;
+  font-family:"VT", sans-serif;
 }
+
+.title {
+    transform: translateX(-50%) rotate(-10deg);
+    display: block;
+    float: left;
+    left: 50%;
+    position: relative;
+  }
+  .title span {
+    transform: skew(-10deg);
+    display: block;
+    float: left;
+    text-shadow: #533d4a 1px 1px, #533d4a 2px 2px, #533d4a 3px 3px, #533d4a 4px 4px, #533d4a 5px 5px, #533d4a 6px 6px;
+    min-width: 10px;
+    min-height: 10px;
+    position: relative;
+  }
+  
+  .title:nth-child(1) {
+    color: #e55643;
+  }
+  .title:nth-child(2) {
+    color: #2b9f5e;
+  }
+  .title:nth-child(3) {
+    color: #f1c83c;
+  }
 
 h1 {font-size: 2.052em;  text-shadow: 1px 2px darkred;}
 

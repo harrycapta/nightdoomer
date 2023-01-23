@@ -18,6 +18,6 @@ $(document).ready(function() {
     win.on('resize', () => {
       progressLabel.text(setPercent() + '%');
       progressBar.attr({ value: setValue(), max: setMax() });
-    })
+    })    
   });
-  
+
