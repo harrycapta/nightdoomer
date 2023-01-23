@@ -20,6 +20,12 @@
     --progress-bar-value: 20%;  
 }
 
+::selection {
+    background:  rgb(220, 0, 0);
+    color:white;
+  }
+  
+
 html {
     font-size:  100%;
     scroll-behavior: smooth;
@@ -82,7 +88,10 @@ main {
 }
 
 .page-header__logo {
-    width:80px;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 10px;
 }
 
 .page-footer {
