@@ -22,6 +22,8 @@
 
 ### Episodi In Revisione
 
+[[Gemmadelsud]]
+
 ### In scrittura  
 *(c'è casino e non sono completi, fate un po' quel cazzo che vi pare)*
 
