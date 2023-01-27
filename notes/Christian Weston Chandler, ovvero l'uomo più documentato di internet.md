@@ -1,3 +1,5 @@
+# Christian Weston Chandler, ovvero l'uomo più documentato di internet
+
 Christian Weston Chandler, noto anche come Chris-Chan, è una figura controversa su Internet nota per il suo coinvolgimento nelle comunità di Sonichu e CWCville, nonché per il suo comportamento erratico e talvolta disturbante. Ecco un riassunto di alcuni dei momenti più importanti della sua vita:
 
 1.  Vita precoce: Chris-Chan è nato nel 1982 a Ruckersville, in Virginia. Ha avuto difficoltà a socializzare e gli è stata diagnosticata la sindrome di Asperger, una forma di autismo.

@@ -26,6 +26,11 @@
 
 [[Gemmadelsud]]
 
+[[Legacy of Kain - Un incubo nietzchiano]]
+
+[[My Immortal ovvero la peggior fanfiction su Harry Potter mai scritta]]
+
+
 ### In scrittura  
 *(c'è casino e non sono completi, fate un po' quel cazzo che vi pare)*
 
